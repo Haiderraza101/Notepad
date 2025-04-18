@@ -1,2 +1,2 @@
 # Notepad
-Notepad is a simple text editor built in C++ using linked lists for text storage and SFML for the graphical interface. It supports basic text operations like typing, deleting, and navigating through characters, offering a lightweight and efficient alternative to array-based editors
+Notepad is a simple console-based text editor built in C++ using linked lists for text storage. It supports basic text operations like typing, deleting, and navigating through characters. Unlike array-based editors, this approach ensures efficient memory usage and dynamic editing capabilities. The interface uses console colors to enhance readability and user interaction, offering a lightweight yet visually distinct experience within the terminal environment.
